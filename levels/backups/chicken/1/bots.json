@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "ch1",
+    "Name": "ch1",
+    "Skin": "ch1",
+    "Model": "chicken",
+    "Color": "&1",
+    "ClickedOnText": null,
+    "DeathMessage": null,
+    "Owner": "SuperOP+",
+    "AI": "chicken1",
+    "Kill": false,
+    "Hunt": false,
+    "CurInstruction": 0,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 2577,
+    "Y": 1083,
+    "Z": 3098,
+    "RotX": 179,
+    "RotY": 0,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

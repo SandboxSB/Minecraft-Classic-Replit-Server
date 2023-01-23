@@ -1,0 +1,24 @@
+# This represents the physics properties for blocks, in the format of:
+# id : Is rails : Is tdoor : Is door : Is message block : Is portal : Killed by water : Killed by lava : Kills players : death message : Animal AI type : Stack block : Is OP block : oDoor block : Drownable : Grass block : Dirt block
+19:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+21:True:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+22:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+23:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+24:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+25:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+26:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+27:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+28:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+29:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+30:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+31:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+32:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+33:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+34:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+35:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+36:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+55:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+56:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+57:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+58:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+59:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255

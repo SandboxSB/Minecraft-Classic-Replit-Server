@@ -1,0 +1,5 @@
+// This is used to create custom chat tokens
+// Lines starting with // are ignored
+// Lines should be formatted like this:
+// $website:http://example.org
+// That would replace '$website' in any message to 'http://example.org'

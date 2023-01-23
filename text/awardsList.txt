@@ -1,0 +1,3 @@
+#This is a full list of awards. The server will load these and they can be awarded as you please
+#Format is:
+# AwardName : Description of award goes after the colon

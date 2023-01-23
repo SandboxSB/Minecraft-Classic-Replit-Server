@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "sus",
+    "Name": "sus",
+    "Skin": "sus",
+    "Model": "humanoid",
+    "Color": "&1",
+    "ClickedOnText": "sussy",
+    "DeathMessage": "imposter",
+    "Owner": "xlstasy+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": false,
+    "CurInstruction": 0,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 11600,
+    "Y": 2135,
+    "Z": 7856,
+    "RotX": 64,
+    "RotY": 0,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

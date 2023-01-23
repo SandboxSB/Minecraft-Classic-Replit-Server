@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "SB",
+    "Name": "SB",
+    "Skin": "SB",
+    "Model": "humanoid",
+    "Color": "&1",
+    "ClickedOnText": "im good.",
+    "DeathMessage": null,
+    "Owner": "Alexcrish17+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": false,
+    "CurInstruction": 0,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 2613,
+    "Y": 2131,
+    "Z": 2723,
+    "RotX": 216,
+    "RotY": 0,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

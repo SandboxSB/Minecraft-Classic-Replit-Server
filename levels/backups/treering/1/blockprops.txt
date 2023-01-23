@@ -1,0 +1,6 @@
+# This represents the physics properties for blocks, in the format of:
+# id : Is rails : Is tdoor : Is door : Is message block : Is portal : Killed by water : Killed by lava : Kills players : death message : Animal AI type : Stack block : Is OP block : oDoor block : Drownable : Grass block : Dirt block
+322:False:False:False:False:False:False:False:False::0:0:False:323:False:255:255
+323:False:False:False:False:False:False:False:False::0:0:False:322:False:255:255
+346:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
+512:False:False:True:False:False:False:False:False::0:0:False:255:False:255:255

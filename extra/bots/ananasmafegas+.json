@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "Huggy",
+    "Name": "Huggy",
+    "Skin": "AnanasMafegas",
+    "Model": "|2",
+    "Color": "&1",
+    "ClickedOnText": null,
+    "DeathMessage": null,
+    "Owner": "AnanasMafegas+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": true,
+    "CurInstruction": 6500,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 2064,
+    "Y": 2130,
+    "Z": 173,
+    "RotX": 128,
+    "RotY": 0,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "&f",
+    "Name": "SB",
+    "Skin": "SB",
+    "Model": "|5",
+    "Color": "&1",
+    "ClickedOnText": null,
+    "DeathMessage": null,
+    "Owner": "SB+",
+    "AI": "stare",
+    "Kill": false,
+    "Hunt": false,
+    "CurInstruction": 0,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 4272,
+    "Y": 3699,
+    "Z": 3856,
+    "RotX": 58,
+    "RotY": 49,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

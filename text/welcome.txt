@@ -1,0 +1,4 @@
+Hi, you will be promoted to &2builder&S on &7fb&S and your own map.  No griefing on &7fb&S.
+Go to your own map with &T/os map new&S and &T/os go&S.
+Back to &7tree&S level with &T/main&S.
+Use &T/help&S for more help

@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "RBot",
+    "Name": "RBot",
+    "Skin": "RBot",
+    "Model": "humanoid",
+    "Color": "&1",
+    "ClickedOnText": "%7RBot: %fhello",
+    "DeathMessage": "%7RBot: %fu died lol",
+    "Owner": "RidgedBlock+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": false,
+    "CurInstruction": 0,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 1947,
+    "Y": 2227,
+    "Z": 5125,
+    "RotX": 172,
+    "RotY": 0,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "test",
+    "Name": "test",
+    "Skin": "test",
+    "Model": "humanoid",
+    "Color": "&1",
+    "ClickedOnText": null,
+    "DeathMessage": null,
+    "Owner": "Marat+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": true,
+    "CurInstruction": 1808,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 1126,
+    "Y": 2387,
+    "Z": 3497,
+    "RotX": 29,
+    "RotY": 247,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

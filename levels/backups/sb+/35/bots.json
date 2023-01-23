@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "Huggy",
+    "Name": "Huggy",
+    "Skin": "Huggy",
+    "Model": "humanoid",
+    "Color": "&1",
+    "ClickedOnText": null,
+    "DeathMessage": null,
+    "Owner": "SB+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": false,
+    "CurInstruction": 0,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 5519,
+    "Y": 5043,
+    "Z": 4737,
+    "RotX": 133,
+    "RotY": 0,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

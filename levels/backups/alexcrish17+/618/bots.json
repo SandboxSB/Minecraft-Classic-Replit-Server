@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "carman",
+    "Name": "carman",
+    "Skin": "carman",
+    "Model": "humanoid",
+    "Color": "&1",
+    "ClickedOnText": null,
+    "DeathMessage": null,
+    "Owner": "lllcyruslll+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": false,
+    "CurInstruction": 0,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 116,
+    "Y": 4883,
+    "Z": 8887,
+    "RotX": 129,
+    "RotY": 0,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

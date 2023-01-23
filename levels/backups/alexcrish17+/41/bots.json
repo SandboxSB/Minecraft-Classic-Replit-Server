@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "prolikeagamer",
+    "Name": "prolikeagamer",
+    "Skin": "prolikeagamer",
+    "Model": "humanoid",
+    "Color": "&1",
+    "ClickedOnText": "well this heilcopter is cool!",
+    "DeathMessage": null,
+    "Owner": "Alexcrish17+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": false,
+    "CurInstruction": 0,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 2738,
+    "Y": 2259,
+    "Z": 2160,
+    "RotX": 253,
+    "RotY": 0,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

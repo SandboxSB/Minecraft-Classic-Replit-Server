@@ -1,0 +1,8 @@
+
+#ulimit -v 1300000
+
+#ulimit -v 2097152
+#ulimit -v 1048576
+#ulimit -v 1700000
+#ulimit -v 4194304
+#export MONO_GC_PARAMS=max-heap-size=1024M

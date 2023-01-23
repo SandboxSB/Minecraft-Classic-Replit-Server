@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "empty",
+    "Name": "spider",
+    "Skin": "spider",
+    "Model": "spider",
+    "Color": "&1",
+    "ClickedOnText": null,
+    "DeathMessage": null,
+    "Owner": "SuperOP+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": true,
+    "CurInstruction": 21221795,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 8208,
+    "Y": 771,
+    "Z": 8144,
+    "RotX": 128,
+    "RotY": 57,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

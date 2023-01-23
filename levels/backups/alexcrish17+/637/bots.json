@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "walmartman",
+    "Name": "walmartman",
+    "Skin": "walmartman",
+    "Model": "humanoid",
+    "Color": "&1",
+    "ClickedOnText": null,
+    "DeathMessage": null,
+    "Owner": "Alexcrish17+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": false,
+    "CurInstruction": 0,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 9108,
+    "Y": 4851,
+    "Z": 9532,
+    "RotX": 61,
+    "RotY": 0,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

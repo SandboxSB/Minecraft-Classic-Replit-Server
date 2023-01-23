@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "Herobrine",
+    "Name": "Herobrine",
+    "Skin": "Herobrine",
+    "Model": "humanoid",
+    "Color": "&1",
+    "ClickedOnText": null,
+    "DeathMessage": null,
+    "Owner": "whwt1borpluu419+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": false,
+    "CurInstruction": 0,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 4702,
+    "Y": 787,
+    "Z": 2449,
+    "RotX": 72,
+    "RotY": 194,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

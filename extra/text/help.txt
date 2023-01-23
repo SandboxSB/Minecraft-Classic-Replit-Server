@@ -1,0 +1,11 @@
+Command Categories:
+  &aBuilding Chat Economy Games Info Moderation Other World
+Other Categories:
+  &aRanks Colors Emotes Shortcuts Commands
+To view help for a category, type &a/Help CategoryName
+To see detailed help for a command, type &a/Help CommandName
+To see your stats, type &a/Info
+To see loaded maps, type &a/Maps
+To view your personal world options, use &a/Realm
+To join a map, type &a/Goto WorldName
+To send private messages, type &a@PlayerName Message

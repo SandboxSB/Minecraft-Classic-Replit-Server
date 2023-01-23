@@ -1,0 +1,5 @@
+// This file is used to replace words/phrases sent to discord
+// Lines starting with // are ignored
+// Lines should be formatted like this:
+// example:http://example.org
+// That would replace 'example' in messages sent with 'http://example.org'

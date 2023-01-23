@@ -1,0 +1,2 @@
+# Here you can put commands that cannot be used from the IRC bot.
+# Lines starting with "#" are ignored.

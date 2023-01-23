@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "trollman11325",
+    "Name": "trollman11325",
+    "Skin": "trollman11325",
+    "Model": "humanoid",
+    "Color": "&1",
+    "ClickedOnText": "There's 0 chance that you will survive here.",
+    "DeathMessage": null,
+    "Owner": "trollman11325+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": false,
+    "CurInstruction": 0,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 2064,
+    "Y": 3091,
+    "Z": 1935,
+    "RotX": 128,
+    "RotY": 0,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

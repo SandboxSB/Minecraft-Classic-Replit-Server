@@ -1,0 +1,29 @@
+# This represents the physics properties for blocks, in the format of:
+# id : Is rails : Is tdoor : Is door : Is message block : Is portal : Killed by water : Killed by lava : Kills players : death message : Animal AI type : Stack block : Is OP block : oDoor block : Drownable : Grass block : Dirt block
+323:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+324:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+325:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+326:False:False:False:False:False:True:True:False::0:0:False:255:False:255:255
+328:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+329:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+330:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+331:False:False:False:False:False:True:True:False::0:0:False:255:False:255:255
+333:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+334:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+335:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+336:False:False:False:False:False:True:True:False::0:0:False:255:False:255:255
+338:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+339:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+340:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+341:False:False:False:False:False:True:True:False::0:0:False:255:False:255:255
+342:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+343:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+344:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+345:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+346:False:False:False:False:False:True:True:False::0:0:False:255:False:255:255
+347:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+348:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+349:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+350:False:False:False:False:False:False:True:False::0:0:False:255:False:255:255
+351:False:False:False:False:False:True:True:False::0:0:False:255:False:255:255
+356:False:False:False:False:False:True:True:False::0:0:False:255:False:255:255

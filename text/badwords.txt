@@ -1,0 +1,2 @@
+# This file is a list of words to remove via the profanity filter
+# Each word to remove must be on an individual line

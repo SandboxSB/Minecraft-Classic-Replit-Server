@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "Blinky",
+    "Name": "Blinky",
+    "Skin": "Blinky",
+    "Model": "chicken",
+    "Color": "&1",
+    "ClickedOnText": null,
+    "DeathMessage": null,
+    "Owner": "nahimmx_+",
+    "AI": null,
+    "Kill": true,
+    "Hunt": true,
+    "CurInstruction": 154,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 4296,
+    "Y": 4115,
+    "Z": 5614,
+    "RotX": 236,
+    "RotY": 0,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]

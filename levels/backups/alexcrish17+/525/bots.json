@@ -1,0 +1,27 @@
+[
+{
+    "DisplayName": "SB",
+    "Name": "SB",
+    "Skin": "SB",
+    "Model": "humanoid",
+    "Color": "&1",
+    "ClickedOnText": "sb is gay 999999%",
+    "DeathMessage": null,
+    "Owner": "whwt1borpluu419+",
+    "AI": null,
+    "Kill": false,
+    "Hunt": false,
+    "CurInstruction": 0,
+    "CurJump": 0,
+    "CurSpeed": 3,
+    "X": 8151,
+    "Y": 5290,
+    "Z": 1706,
+    "RotX": 192,
+    "RotY": 0,
+    "BodyX": 0,
+    "BodyZ": 0,
+    "ScaleX": 0,
+    "ScaleY": 0,
+    "ScaleZ": 0
+}]
